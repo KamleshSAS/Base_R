@@ -1,3 +1,10 @@
+#------------------------------
+#Name:  Kamlesh Patel
+#Date:  Feb-25, 2020
+#Project: Chapter 5 
+#------------------------------
+
+
 # Vactorization 
 
 vector1 <- c(1,2,3,4)
